@@ -21,20 +21,17 @@ HTML 2026/
 ├── images/ # Folder containing images and logos
 └── README.md # Project description
 
+Open the folder in VS Code or your preferred code editor.
 
+Open index.html in a browser to see the page.
 
+🔍 Features
 
+Header with Amazon logo and search bar
 
+Navigation menu
 
+Product sections with images and titles
 
+Footer with basic information
 
-
-
-
-
-HTML 2026/
-│
-├── index.html # Main HTML page
-├── stylesheet.css # CSS styling for the page
-├── images/ # Folder containing images and logos
-└── README.md # Project description
