@@ -35,3 +35,5 @@ Product sections with images and titles
 
 Footer with basic information
 
+Auther 
+Rashid Mahmood
